@@ -1,7 +1,9 @@
 # Dev Notes - Personal Notes Dashboard
 
 A modern, feature-rich notes dashboard built with Vite, React, TypeScript, and shadcn/ui with the mrrobot-bubble theme.
-
+## Images
+[[Image1]](./public/landing.png)
+[[Image2]](./public/notes.png)
 ## Features
 
 - **Markdown Support**: Full GitHub Flavored Markdown with syntax highlighting
