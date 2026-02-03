@@ -2,8 +2,12 @@
 
 A modern, feature-rich notes dashboard built with Vite, React, TypeScript, and shadcn/ui with the mrrobot-bubble theme.
 ## Images
-[[Image1]](./public/landing.png)
-[[Image2]](./public/notes.png)
+
+<div align="center">
+
+<img width="1280" height="640" alt="image" src="./public/landing.png" />
+
+<img width="1280" height="640" alt="image" src="./public/notes.png"/>
 ## Features
 
 - **Markdown Support**: Full GitHub Flavored Markdown with syntax highlighting
